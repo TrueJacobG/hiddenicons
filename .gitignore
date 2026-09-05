@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.xcresult
+
+# Packaging output (scripts/package.sh)
+hiddenicons.zip
+
+# The landing page lives in its own private repository
+webpage/
